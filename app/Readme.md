@@ -26,12 +26,12 @@
          应用场景：
          从sd卡加载大图
          
-         [查看使用](https://github.com/hanlonglinandroidstudys/NDKTools/blob/master/app/src/main/java/hanlonglin/com/ndktools/ImageUtil/ImageCompressWithJava.java)
+[查看使用](https://github.com/hanlonglinandroidstudys/NDKTools/blob/master/app/src/main/java/hanlonglin/com/ndktools/ImageUtil/ImageCompressWithJava.java)
          
 ## c++方法：
   * 1.使用libjpeg库压缩图片，原理是去掉图片中argb中的a
   
-         [查看使用java代码](https://github.com/hanlonglinandroidstudys/NDKTools/blob/master/app/src/main/java/hanlonglin/com/ndktools/ImageUtil/ImageCompressWithCPP.java)
+[查看使用java代码](https://github.com/hanlonglinandroidstudys/NDKTools/blob/master/app/src/main/java/hanlonglin/com/ndktools/ImageUtil/ImageCompressWithCPP.java)
          [查看使用c++代码](https://github.com/hanlonglinandroidstudys/NDKTools/blob/master/app/src/main/cpp/bitherlibjin.cpp)
   
           
