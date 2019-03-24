@@ -19,7 +19,7 @@ public class ImageCompressWithCPP {
         return instance;
     }
 
-    private final static int DEFAULT_QUALITY = 90;
+    private final static int DEFAULT_QUALITY = 50;
 
     public String compressBitmap(Bitmap bitmap, String filename, boolean optimize) {
         return compressBitmap(bitmap, DEFAULT_QUALITY, filename, optimize);
